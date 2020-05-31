@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<language>
+    <page id="7442342"  title="Landlord" descr="Names and descriptions" voice="no">
+        <t id="31000">Landlord installé.</t>
+        <t id="31001">Recouvrement des taxes</t>
+        <t id="31002">%s crédits perçus depuis %s stations.</t>
+        <t id="31003">Aperçu détaillé:\nTaxes perçues: %s Crédits\n\nDétails de station:</t>
+        <t id="31004">\n%s \(%s\)\n\033#FFA9A9A9# - Taxes: %s Crédits \033X</t>
+        <t id="31005">Maintenance de station:</t>
+        <t id="31006">Incapacité à payer les coûts de la station.\nCoûts totaux pour %s stations: %s Crédits.</t>
+        <t id="31007">Coûts totaux pour %s stations: %s Crédits.</t>
+        <t id="31008">Aperçu détaillé:\nTaxes perçues: %s Crédits\nCoûts de maintenance: %s Crédits\nTotal: %s Crédits\n\nDétails de station:</t>
+        <t id="31009">\n%s \(%s\)\n\033#FFA9A9A9# - Taxes: %s Crédits  |  Maintenance: %s Crédits \033X</t>
+        <t id="31010">Les relations avec %s ont changé de %s à %s.</t>
+        <t id="31011">Changement de relation:</t>
+	</page>
+</language>
