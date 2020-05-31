@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<language>
+    <page id="7442342"  title="Reaction force" descr="Names and descriptions of settings" voice="no">
+		<t id="30100">Force de Réaction</t>	
+		<t id="30101">Réagit aux ennemis qui attaquent vos biens à proximité.</t>
+		<t id="30102">Origine</t>
+		<t id="30103">Secteur/Station d'Origine</t>
+		<t id="30104">Amaré quand Inactif</t>
+		<t id="30105">Quand inactif, rester amaré. Si faux ou l'origine n’est pas une station, nous patrouillerons notre système d'origine.</t>
+		<t id="30106">Portée de Réaction(Jumps)</t>
+		<t id="30107">Portée maximale dont cette force réagira depuis l'origine.</t>
+		<t id="30108">Réagir aux Vaisseaux</t>
+		<t id="30109">Devrions-nous réagir aux vaisseaux attaqués ? \(Always Responds In Sector\)</t>
+		<t id="30110">Limite de Réaction HP%(Ships)</t>
+		<t id="30111">Le Pourcentage  d'HP \(Coque + Bouclier\) qui entraîne une réaction.</t>
+		<t id="30112">Réagir aux Stations</t>
+		<t id="30113">Devons-nous réagir aux stations qui sont attaquées ? \(Always Responds In Sector\)</t>
+		<t id="30114">Limite de Réaction HP% (Stations)</t>
+		<t id="30115">Le Pourcentage  d'HP \(Coque + Bouclier\) qui entraîne une réaction.</t>
+		<t id="30116">Réagir au Joueur</t>
+		<t id="30117">Doit-on réagir au joueur ?</t>
+		<t id="30118">Répondre aux Appels de Détresse</t>
+		<t id="30119">Devons-nous réagir aux appels de détresse ?</t>
+		<t id="30120">Activer les Notifications</t>
+		<t id="30121">Voulez-vous recevoir des notifications quand ce vaisseau sera envoyé ?</t>	
+		<t id="30122">FORCE DE REACTION:\n%s a été envoyée sur %s</t>
+		<t id="30123">FORCE DE REACTION ENVOYEE:</t>
+		<t id="30124">FORCE DE REACTION:\n%s a été envoyée sur %s dans %s</t>
+	</page>
+</language>
