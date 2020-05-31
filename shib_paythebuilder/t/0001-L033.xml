@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<language>
+    <page id="7442342"  title="Paythebuilder" descr="Names and descriptions" voice="no">
+        <t id="32001">Paiement du constructeur:</t>
+        <t id="32002">%s crédits perçus par %s.</t>
+        <t id="32003">%s 0001-L033.xml %s pour l'achèvement de la construction de %s dans %s.</t>
+	</page>
+</language>
