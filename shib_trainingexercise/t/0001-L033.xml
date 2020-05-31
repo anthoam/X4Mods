@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<language>
+    <page id="7442342" title="Training Exercise" descr="Names and descriptions" voice="no">
+        <t id="33000">Exercices de formation</t>
+        <t id="33001">Entraînez-vous avec vos subordonnés pour acquérir de l’expérience.</t>
+        <t id="33002">Secteur d'entraînement</t>
+        <t id="33003">SUCCES DE LA FORMATION:\n</t>
+        <t id="33004">%s dans %s formés avec succès.</t>
+    </page>
+</language>
